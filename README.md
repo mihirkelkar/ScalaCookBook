@@ -18,3 +18,5 @@ I will also try and draw parallel from different programming language constructs
 <a href = "https://github/com/mihirkelkar/ScalaCookBook/blob/master/Chapter_One/Strings_slice.scala"> Replace all instances of a character in a String </a>
 
 <a href = "https://github/com/mihirkelkar/ScalaCookBook/blob/master/Chapter_One/Strings_split.scala"> Split Strings </a>
+
+<a href = "https://github/com/mihirkelkar/ScalaCookBook/blob/master/Chapter_One/print_formatting.scala"> Print Formatting in Scala </a>
