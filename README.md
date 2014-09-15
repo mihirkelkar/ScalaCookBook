@@ -26,3 +26,7 @@ I will also try and draw parallel from different programming language constructs
 <a href = "https://github.com/mihirkelkar/ScalaCookBook/blob/master/Chapter_One/finding_patterns.scala">Regex Finding Patterns in Strings </a>
 
 <a href = "https://github.com/mihirkelkar/ScalaCookBook/blob/master/Chapter_Two/converting_string_to_number.scala">Converting a String to a Number</a>
+
+<a href = "https://github.com/mihirkelkar/ScalaCookBook/blob/master/Chapter_Two/convert_from_other_base_to_decimal.scala">Converting a String representing an integer of a base to a Decimal Int</a>
+
+<a href = "https://github.com/mihirkelkar/ScalaCookBook/blob/master/Chapter_Two/convert_from_other_base_to_decimal.scala">Writing your first implicit class and implicit method</a>
