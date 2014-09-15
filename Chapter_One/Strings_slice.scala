@@ -23,3 +23,14 @@ println(string.toUpperCase)
 //Converting a string to lower case scala
 string = "CASE TO LOWER"
 println(string.toLowerCase)
+
+//Multiline strings in scala. 
+string = """This is
+	  a multi line
+	  string in scala"""
+
+
+//Scala's equivalent of a prepalce method in Python. 
+string = "hi, my name is harry huffington"
+string = string.replaceAll("h", "")
+println(string)

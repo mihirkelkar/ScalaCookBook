@@ -14,3 +14,5 @@ I will also try and draw parallel from different programming language constructs
 <a href = "https://github.com/mihirkelkar/ScalaCookBook/blob/master/Chapter_One/Strings_slice.scala ">Finding Substrings in Scala.</a>
 
 <a href = "https://github.com/mihirkelkar/ScalaCookBook/blob/master/Chapter_One/Strings_slice.scala ">Case Conversion  in Scala.</a>
+
+<a href = "https://github/com/mihirkelkar/ScalaCookBook/blob/master/Chapter_One/Strings_slice.scala"> Replace all instances of a character in a String </a>
