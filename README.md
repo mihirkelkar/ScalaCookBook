@@ -20,3 +20,5 @@ I will also try and draw parallel from different programming language constructs
 <a href = "https://github/com/mihirkelkar/ScalaCookBook/blob/master/Chapter_One/Strings_split.scala"> Split Strings </a>
 
 <a href = "https://github/com/mihirkelkar/ScalaCookBook/blob/master/Chapter_One/print_formatting.scala"> Print Formatting in Scala </a>
+
+<a href = "https://github/com/mihirkelkar/ScalaCookBook/blob/master/Chapter_One/finding_ascii_codes.scala">Convert to ASCII Code </a>
