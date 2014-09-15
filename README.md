@@ -1,7 +1,7 @@
 ScalaCookBook
 =============
 
-I try and finish the scala cook book in a week documenting the code exercises I practice and general notes here. 
+As I delved into Scala Programming over the last summer. I grew to love the language. I thought I should do my part and organize a basic tutorial of sorts for programmers trying to learn by example 
 
 I will try and maintain an index here as to specific problems that we might come across during writing code and their solutions here. 
 
