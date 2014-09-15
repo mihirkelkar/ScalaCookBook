@@ -1,0 +1,6 @@
+println("100".toInt)
+println("100".toDouble)
+println("100".toFloat)
+println("100".toLong)
+println("100".toShort)
+println("100".toByte)

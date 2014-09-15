@@ -24,3 +24,5 @@ I will also try and draw parallel from different programming language constructs
 <a href = "https://github.com/mihirkelkar/ScalaCookBook/blob/master/Chapter_One/finding_ascii_codes.scala">Convert to ASCII Code </a>
 
 <a href = "https://github.com/mihirkelkar/ScalaCookBook/blob/master/Chapter_One/finding_patterns.scala">Regex Finding Patterns in Strings </a>
+
+<a href = "https://github.com/mihirkelkar/ScalaCookBook/blob/master/Chapter_Two/converting_string_to_number.scala">Converting a String to a Number</a>
