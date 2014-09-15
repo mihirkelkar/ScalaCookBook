@@ -7,13 +7,13 @@ I will try and maintain an index here as to specific problems that we might come
 
 I will also try and draw parallel from different programming language constructs like those in Python to the equivalent in Scala. 
 
-<a href = "https://github.com/mihirkelkar/ScalaCookBook/blob/master/Chapter_One/Strings.scala ">Iterate over each character in a String in Scala</a>
+<a href = "https://github.com/mihirkelkar/ScalaCookBook/blob/master/Chapter_One/Strings.scala">Iterate over each character in a String in Scala</a>
 
-<a href = "https://github.com/mihirkelkar/ScalaCookBook/blob/master/Chapter_One/Strings_slice.scala ">String Slicing in Scala.</a>
+<a href = "https://github.com/mihirkelkar/ScalaCookBook/blob/master/Chapter_One/Strings_slice.scala">String Slicing in Scala.</a>
 
-<a href = "https://github.com/mihirkelkar/ScalaCookBook/blob/master/Chapter_One/Strings_slice.scala ">Finding Substrings in Scala.</a>
+<a href = "https://github.com/mihirkelkar/ScalaCookBook/blob/master/Chapter_One/Strings_slice.scala">Finding Substrings in Scala.</a>
 
-<a href = "https://github.com/mihirkelkar/ScalaCookBook/blob/master/Chapter_One/Strings_slice.scala ">Case Conversion  in Scala.</a>
+<a href = "https://github.com/mihirkelkar/ScalaCookBook/blob/master/Chapter_One/Strings_slice.scala">Case Conversion  in Scala.</a>
 
 <a href = "https://github/com/mihirkelkar/ScalaCookBook/blob/master/Chapter_One/Strings_slice.scala"> Replace all instances of a character in a String </a>
 
