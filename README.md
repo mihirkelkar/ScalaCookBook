@@ -6,3 +6,5 @@ As I delved into Scala Programming over the last summer. I grew to love the lang
 I will try and maintain an index here as to specific problems that we might come across during writing code and their solutions here. 
 
 I will also try and draw parallel from different programming language constructs like those in Python to the equivalent in Scala. 
+
+<a href = "https://github.com/mihirkelkar/ScalaCookBook/blob/master/Chapter_One/Strings.scala ">Iterate over each character in a String in Scala</a>
