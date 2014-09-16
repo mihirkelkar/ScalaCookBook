@@ -32,3 +32,9 @@ I will also try and draw parallel from different programming language constructs
 <a href = "https://github.com/mihirkelkar/ScalaCookBook/blob/master/Chapter_Two/convert_from_other_base_to_decimal.scala">Writing your first implicit class and implicit method</a>
 
 <a href = "https://github.com/mihirkelkar/ScalaCookBook/blob/master/Chapter_Two/convert_from_other_base_to_decimal.scala">Exception Handling in Scala</a>
+
+<a href = "https://github.com/mihirkelkar/ScalaCookBook/blob/master/Chapter_Three/control_structures.scala">Ternary Operators in Scala</a>
+
+<a href = "https://github.com/mihirkelkar/ScalaCookBook/blob/master/Chapter_Three/control_structures.scala">For and For each Loop in Scala </a>
+
+<a href = "https://github.com/mihirkelkar/ScalaCookBook/blob/master/Chapter_Three/control_structures.scala">Loop with index in scala</a>
